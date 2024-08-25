@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OAuthOpenIdApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(OAuthOpenIdApplication.class, args);
 	}
 
